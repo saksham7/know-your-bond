@@ -1,0 +1,17 @@
+input[type="submit"]{
+	display:block;
+	background-color:aqua;
+	color:black;
+	margin:auto;
+	border:1px solid black;
+	width:20%;
+	font-size:20px;
+	font-family:"Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+}
+input[type="text"]{
+	height:5%;
+}
+input[type="email"]{
+	height:5%;
+}
